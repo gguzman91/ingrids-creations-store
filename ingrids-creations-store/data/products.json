@@ -1,0 +1,16 @@
+[
+  {
+    "id": "stanley-30",
+    "name": "Stanley Cup 30oz",
+    "basePrice": 35,
+    "colors": ["White", "Black", "Pink"],
+    "image": "/images/30oz.png"
+  },
+  {
+    "id": "stanley-40",
+    "name": "Stanley Cup 40oz",
+    "basePrice": 45,
+    "colors": ["White", "Black", "Pink", "Green"],
+    "image": "/images/40oz.png"
+  }
+]

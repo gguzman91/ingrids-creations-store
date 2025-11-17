@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Cart - Ingrid's Creations</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Your Cart</h1>
+
+<div id="cart-items"></div>
+
+<h3>Discount Code:</h3>
+<input id="discountCode" type="text" placeholder="Enter code">
+<button onclick="applyDiscount()">Apply</button>
+
+<h2 id="totalPrice"></h2>
+
+<div id="paypal-button-container"></div>
+
+<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD"></script>
+<script src="app.js"></script>
+
+</body>
+</html>

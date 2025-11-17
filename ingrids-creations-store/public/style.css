@@ -1,0 +1,11 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+.btn {
+    background: black;
+    color: white;
+    padding: 12px 18px;
+    text-decoration: none;
+}
